@@ -1,6 +1,6 @@
 # Olá! 👋 Eu sou Arlen de Abreu Marques
 
-Sou um desenvolvedor em formação com base sólida em **HTML** e **CSS**, atualmente me especializando como **desenvolvedor Full Stack** com foco em aplicações web modernas e funcionais.
+Sou um desenvolvedor em formação com base em **HTML** e **CSS**, atualmente me especializando como **desenvolvedor Full Stack** com foco em aplicações web modernas e funcionais.
 
 🚀 Buscando transformar ideias em projetos práticos enquanto aprofundo meus conhecimentos em **JavaScript**, **Node.js** e **bancos de dados**.
 
